@@ -1,0 +1,7 @@
+Opis działania:
+- skrypt uruchamia się z parametrem easy albo hard (python3 hangman.py [opcja])
+- w zależności od wybranego parametru wyrazy są losowane z pliku easy.txt albo
+hard.txt (pliki muszą być w tej samej lokalizacji co skrypt)
+- wyrazy w plikach znajdują się w kolejnych liniach, ponadto w pliku hard.txt
+w kolejnych liniach mogą być umieszczone wyrażenia oddzielone spacjami
+
